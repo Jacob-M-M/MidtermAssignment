@@ -1,0 +1,87 @@
+/*Jacob MacPhail-McAughey 8932866*/
+body
+{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+
+    font: normal normal normal 12px Arial, Helvetica, serif;
+}
+
+.structural
+{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1
+{
+    color: purple;
+    font-size: 20px;
+}
+h2
+{
+    color: purple;
+    font-size: 20px;
+}
+main
+{
+    height: 70vh;
+}
+img
+{
+    border: 3px solid purple;
+    width: 90%;
+    height: 80%;
+}
+figure
+{
+    background-color: rgb(225, 105, 255);
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+#Fig1
+{
+    float: left;
+}
+#Fig2
+{
+    float: right;
+}
+section
+{
+    clear: both;
+}
+figcaption
+{
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(170, 44, 255);
+    padding: 5px;
+}
+a
+{
+    color: purple;
+}
+a:hover
+{
+    color: blue;
+}
+
+li
+{
+    line-height: 20px;
+    list-style: disc;
+}
+
+header
+{
+    background-color: rgb(226, 177, 255);
+}
+
+footer
+{
+    background-color: rgb(226, 177, 255);
+}
